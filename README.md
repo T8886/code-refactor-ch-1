@@ -1,6 +1,6 @@
 # code-refactor-ch-1
 
-## User Story
+## Description
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
@@ -17,3 +17,9 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+## Installation
+N/A
+
+## License
+N/A
