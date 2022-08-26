@@ -17,6 +17,11 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+View the image of the working webpage below or click [link](index.html) to view it live.
+![](assets/images/appscreenshot.png)
+
+
+
 ## Installation
 N/A
 
